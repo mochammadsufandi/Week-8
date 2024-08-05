@@ -1,0 +1,7 @@
+# ignore folder node_modules
+node_modules
+
+# ignore all file with .pdf extension
+*.pdf
+
+dvdrentals.tar
